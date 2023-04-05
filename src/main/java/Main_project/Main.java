@@ -51,7 +51,7 @@ public class Main {
             } else {
                 Decryption decMod = new Decryption(inputStr);
                 System.out.println("Original String (Encrypted String) : "+decMod.getOriginalString());
-                System.out.println("Decrpted String : "+decMod.getDecryptedString());
+                System.out.println("Decrypted String : "+decMod.getDecryptedString());
             }
 
             System.out.println();
