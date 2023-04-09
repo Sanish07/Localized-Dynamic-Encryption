@@ -1,4 +1,4 @@
-#Dynamic Plaintext Encryption Program
+# Dynamic Plaintext Encryption Program
 <hr>
 This project features the DPTE Algorithm for encrypting the plaintext to ciphertexts varying at different program runtime instances.
 
